@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.MarketInfo.InfoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="소개글" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="그 때, 그 밥… 혹시 이 말과 뒤에 김이 모락모락나는 사진을 보고 그때 그시절? 시간? 음식? 에 관한 생각이 들으셨다면 저희의 프로젝트를 설명할 수 있는 이름을 잘 지은거 같아서 뿌듯합니다..
+실제로 저희는 푸드테크의 하나로써 요식업계에 종사하고 있는 음식점사장님들과 음식을 사먹는 소비자들을 중개하는 플랫폼을 만들고자 합니다.
+"
+        />
+
+</FrameLayout>
